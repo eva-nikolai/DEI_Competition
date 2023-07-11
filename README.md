@@ -1,2 +1,3 @@
 # DEI_Competition
-DEI Case Competition
+
+[slide deck](DEI_Comp.pptx.pdf)
