@@ -1,3 +1,3 @@
 # DEI_Competition
 
-[slide deck](DEI_Comp.pptx.pdf)
+[slide deck](DEI_Comp.pdf)
